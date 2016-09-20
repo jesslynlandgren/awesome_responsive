@@ -1,0 +1,44 @@
+.lasticon{
+  padding-right: 40px !important;
+}
+
+.awesome{
+  background-color: orange;
+  font-style: 'Helvetica', sans-serif;
+  font-size: 80px;
+  height: 400px;
+  text-align: center;
+  margin-top: 50px;
+  line-height: 400px;
+}
+
+.why{
+  margin-bottom: 50px;
+}
+
+.whyawesome{
+  text-align: center;
+  margin: 40px auto;
+}
+
+.list{
+  list-style: none;
+  text-align: center;
+  margin: auto;
+}
+
+.people{
+  background-color: orange;
+  padding-top: 50px;
+  text-align: center;
+}
+
+.avatar{
+  border-radius: 100%;
+  margin: auto;
+}
+
+.profile{
+  padding: 50px 100px;
+  text-align: center;
+}
